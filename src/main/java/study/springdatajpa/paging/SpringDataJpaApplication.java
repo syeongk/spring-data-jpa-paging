@@ -1,4 +1,4 @@
-package study.springdatajpa;
+package study.springdatajpa.paging;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
